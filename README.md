@@ -4,12 +4,12 @@ Basic Extensions with design and re-used functions
 Typo3 dependences:
 Typo3 9.5.13
 
- external_import 
+- external_import 
  
- svconnector
+- svconnector
  
- svconnector_csv 
+- svconnector_csv 
  
- scheduler
+- scheduler
  
  
