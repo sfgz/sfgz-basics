@@ -7,13 +7,13 @@ Depends Typo3 9.5.13
 
 **Depends on follwing Typo3 extensions from TER:**
 
-- external_import 
+- external_import https://extensions.typo3.org/extension/external_import
  
-- svconnector
+- svconnector https://extensions.typo3.org/extension/svconnector
  
-- svconnector_csv 
+- svconnector_csv https://extensions.typo3.org/extension/svconnector_csv
  
-- scheduler
+- scheduler (fix installed on typo3 as system extension)
  
 **affored own extension**
 
