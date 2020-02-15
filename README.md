@@ -3,7 +3,7 @@ Basic Extensions with design and re-used functions. Contains 6 Extension-files. 
 
 Import the file within Typo3 as extensions.
 
-### Depends Typo3 9.5.13
+### Depends on Typo3 9.5.13
 
 release info: https://get.typo3.org/version/9.5.13
 
@@ -19,10 +19,10 @@ download: https://get.typo3.org/9.5.13/tar.gz
  
 - scheduler (fix installed on typo3 as system extension. Disabled by default, enable it! )
  
-### Affored own Typo3 extension 
+### Affored own Typo3 extension:
 
 - sdb_adminer https://github.com/daten-sfgz/sdb_adminer
 
-### Install script
+### Install script:
 affored for installing over ftp acces but without ssh access.
 - t3InstallHelper.php https://github.com/daten-sfgz/t3_installHelp
