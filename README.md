@@ -24,4 +24,5 @@ download: https://get.typo3.org/9.5.13/tar.gz
 - sdb_adminer https://github.com/daten-sfgz/sdb_adminer
 
 ### Install script
-- t3InstallHelper.php affored for installing over ftp acces but without ssh access: https://github.com/daten-sfgz/t3_installHelp
+affored for installing over ftp acces but without ssh access.
+- t3InstallHelper.php https://github.com/daten-sfgz/t3_installHelp
