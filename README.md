@@ -2,9 +2,9 @@
 ## Description
 Basic Extensions contains 6 Extension-files including design. 
 
-Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension, it imports Userdata from Intranet-Sek II API.
+Basics to feed a Nexcloud with userdata. »sfgz_udb« is the main Extension, it imports Userdata from Intranet-Sek II API.
 
-sfgz_udb is also required by upcoming extensions as »sfgz_kurs« or »sfgz_lsbacker«
+»sfgz_udb« is also required by upcoming extensions as »sfgz_kurs« or »sfgz_lsbacker«
 
 The extension »sfgz_csvconvert« is mandatory, It converts uploaded tables to custom formatted-tables
 
