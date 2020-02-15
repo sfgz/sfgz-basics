@@ -5,7 +5,7 @@ Import the file within Typo3 as extensions.
 
 Depends Typo3 9.5.13
 
-Depends Typo3 extensions:
+**Depends Typo3 extensions:**
 
 - external_import 
  
