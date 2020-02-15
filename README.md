@@ -1,8 +1,8 @@
 # sfgz-basics
 ## Description
-Basic Extensions with design and re-used functions. Contains 6 Extension-files. Runs the User-Administration with import from Intranet-Sek II API and Downloads.
+Basic Extensions contains 6 Extension-files including design. 
 
-Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension.
+Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension, it imports Userdata from Intranet-Sek II API.
 
 Required by upcoming extensions as sfgz_kurs or sfgz_lsbacker
 
