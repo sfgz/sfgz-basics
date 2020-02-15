@@ -5,7 +5,7 @@ Basic Extensions with design and re-used functions. Contains 6 Extension-files. 
 Import the file within Typo3 as extensions.
 
 ## Requirements
-Basics to run sfgz_udb for to feed a Nexcloud with userdata.
+Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension.
 
 Required by upcoming extensions as sfgz_kurs or sfgz_lsbacker
 
