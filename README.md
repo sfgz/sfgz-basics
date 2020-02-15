@@ -12,13 +12,13 @@ download: https://get.typo3.org/9.5.13/tar.gz
 
 ### Affored Typo3 Extemsions from TER:
 
-- external_import https://extensions.typo3.org/extension/external_import
+- external_import 4.1.3 https://extensions.typo3.org/extension/external_import 
  
-- svconnector https://extensions.typo3.org/extension/svconnector
+- svconnector 3.3.1 https://extensions.typo3.org/extension/svconnector
  
-- svconnector_csv https://extensions.typo3.org/extension/svconnector_csv
+- svconnector_csv 2.3.0 https://extensions.typo3.org/extension/svconnector_csv
  
-- scheduler (fix installed on typo3 as system extension. Disabled by default, enable it! )
+- scheduler 9.5.13 (fix installed on typo3 as system extension. Disabled by default, enable it! )
  
 ### Affored own Typo3 extension:
 
