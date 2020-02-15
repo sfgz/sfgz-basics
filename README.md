@@ -26,7 +26,7 @@ download: https://get.typo3.org/9.5.13/tar.gz
  
 ### Affored own standalone scripts:
 #### cloudApiAdmin:
-- sdb_adminer https://github.com/daten-sfgz/cloudApiAdmin
+- cloudApiAdmin https://github.com/daten-sfgz/cloudApiAdmin
 
 #### Install script:
 affored for installing over ftp acces but without ssh access.
