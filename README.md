@@ -1,8 +1,10 @@
 # sfgz-basics
+
 Basic Extensions with design and re-used functions. Contains 6 Extension-files. Runs the User-Administration with import from Intranet-Sek II API and Downloads.
 
 Import the file within Typo3 as extensions.
-## Dependations
+
+## Requirements
 
 ### Depends on Typo3 9.5.13
 
@@ -10,7 +12,8 @@ release info: https://get.typo3.org/version/9.5.13
 
 download: https://get.typo3.org/9.5.13/tar.gz
 
-### Affored Typo3 Extensions from TER:
+### Affored Typo3 Extensions:
+#### from TER:
 
 - external_import 4.1.3 https://extensions.typo3.org/extension/external_import 
  
@@ -20,7 +23,7 @@ download: https://get.typo3.org/9.5.13/tar.gz
  
 - scheduler 9.5.13 (fix installed on typo3 as system extension. Disabled by default, enable it! )
  
-### Affored own Typo3 extension:
+#### own Extension:
 
 - sdb_adminer https://github.com/daten-sfgz/sdb_adminer
  
