@@ -1,14 +1,15 @@
 # sfgz-basics
 ## Description
 Basic Extensions with design and re-used functions. Contains 6 Extension-files. Runs the User-Administration with import from Intranet-Sek II API and Downloads.
-## Installation
-Import the file within Typo3 as extensions.
 
-## Requirements
 Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension.
 
 Required by upcoming extensions as sfgz_kurs or sfgz_lsbacker
 
+## Installation
+Import the file within Typo3 as extensions.
+
+## Requirements
 ### Depends on Typo3 9.5.13
 
 release info: https://get.typo3.org/version/9.5.13
