@@ -10,7 +10,7 @@ release info: https://get.typo3.org/version/9.5.13
 
 download: https://get.typo3.org/9.5.13/tar.gz
 
-### Affored Typo3 Extemsions from TER:
+### Affored Typo3 Extensions from TER:
 
 - external_import 4.1.3 https://extensions.typo3.org/extension/external_import 
  
