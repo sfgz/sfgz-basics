@@ -17,5 +17,5 @@ Depends Typo3 9.5.13
  
 **affored own extension**
 
--sdb_adminer
+- sdb_adminer
 
