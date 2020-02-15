@@ -17,7 +17,7 @@ download: https://get.typo3.org/9.5.13/tar.gz
  
 - svconnector_csv https://extensions.typo3.org/extension/svconnector_csv
  
-- scheduler (fix installed on typo3 as system extension)
+- scheduler (fix installed on typo3 as system extension. Disabled by default, enable it! )
  
 ### Affored own Typo3 extension 
 
