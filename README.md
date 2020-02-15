@@ -15,4 +15,7 @@ Depends Typo3 9.5.13
  
 - scheduler
  
-**affored own extension
+**affored own extension**
+
+-sdb_adminer
+
