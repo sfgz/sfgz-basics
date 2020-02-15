@@ -7,7 +7,7 @@ Basics to feed a Nexcloud with userdata. sfgz_udb is the main Extension, it impo
 sfgz_udb is also required by upcoming extensions as sfgz_kurs or sfgz_lsbacker
 
 ## Installation
-Import the file within Typo3 as extensions.
+Import each file within Typo3 as extension.
 
 ## Requirements
 ### Depends on Typo3 9.5.13
