@@ -3,7 +3,9 @@ Basic Extensions with design and re-used functions. Contains 6 Extension-files. 
 
 Import the file within Typo3 as extensions.
 
-Depends Typo3 9.5.13 https://get.typo3.org/version/9.5.13
+Depends Typo3 9.5.13 
+release info: https://get.typo3.org/version/9.5.13
+download: https://get.typo3.org/9.5.13/tar.gz
 
 **Depends on follwing Typo3 extensions from TER:**
 
