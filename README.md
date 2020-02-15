@@ -23,7 +23,11 @@ download: https://get.typo3.org/9.5.13/tar.gz
 ### Affored own Typo3 extension:
 
 - sdb_adminer https://github.com/daten-sfgz/sdb_adminer
+ 
+### Affored own standalone scripts:
+#### cloudApiAdmin:
+- sdb_adminer https://github.com/daten-sfgz/cloudApiAdmin
 
-### Install script:
+#### Install script:
 affored for installing over ftp acces but without ssh access.
 - t3InstallHelper.php https://github.com/daten-sfgz/t3_installHelp
