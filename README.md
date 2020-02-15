@@ -5,7 +5,7 @@ Import the file within Typo3 as extensions.
 
 Depends Typo3 9.5.13
 
-**Depends Typo3 extensions from TER:**
+**Depends on follwing Typo3 extensions from TER:**
 
 - external_import 
  
@@ -17,5 +17,5 @@ Depends Typo3 9.5.13
  
 **affored own extension**
 
-- sdb_adminer
+- sdb_adminer https://github.com/daten-sfgz/sdb_adminer
 
