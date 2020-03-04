@@ -1,4 +1,4 @@
-# sfgz-basics
+# sfgz-basics for Typo3 9.5.13
 ## Description
 Basic Extensions contains 6 Extension-files including design. 
 
