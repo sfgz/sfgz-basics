@@ -18,6 +18,13 @@ release info: https://get.typo3.org/version/9.5.13
 
 download: https://get.typo3.org/9.5.13/tar.gz
 
+### Cron Job
+Run as PHP-Script
+
+/home/httpd/vhosts/medienformfarbe.ch/sfgz/daten/typo3/sysext/core/bin/typo3
+
+With argument: 'scheduler:run'  (brackets included)
+
 ### Affored Typo3 Extensions:
 #### from TER:
 
