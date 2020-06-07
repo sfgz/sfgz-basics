@@ -42,6 +42,7 @@ Included in this bundle of extensions.
  
 ### Affored own standalone scripts:
 #### cloudApiAdmin:
+Feeds nextcloud with userdata.
 - cloudApiAdmin https://github.com/daten-sfgz/cloudApiAdmin
 
 #### Install script:
