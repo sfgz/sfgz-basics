@@ -37,7 +37,7 @@ With argument: 'scheduler:run'  (brackets included)
 - scheduler 9.5.13 (fix installed on typo3 as system extension. Disabled by default, enable it! )
  
 #### own Extension:
-
+Includet in this bundle of extensions.
 - sdb_adminer https://github.com/daten-sfgz/sdb_adminer
  
 ### Affored own standalone scripts:
